@@ -1,3 +1,3 @@
 ## Good Morning
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ellelkktrraaa&theme=null)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ellelkktrraaa&theme=dark)
